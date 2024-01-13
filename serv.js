@@ -26,7 +26,7 @@ app.get("/2baf70d1-42bb-4437-b551-e5fed5a87abe", (req, res) => {
     running_time: "124",
     rt_score: "95",
     movie: "https://video.sibnet.ru/shell.php?videoid=4960836",
-    vost: "https://www.youtube.com/watch?v=A2CyR65e_2k&ab_channel=Sofyan",
+    vost: "https://video.sibnet.ru/shell.php?videoid=5356590",
   });
 });
 app.get("/12cfb892-aac0-4c5b-94af-521852e46d6a", (req, res) => {
@@ -109,9 +109,8 @@ app.get("/4e236f34-b981-41c3-8c65-f8c9000b94e7", (req, res) => {
     release_date: "1991",
     running_time: "118",
     rt_score: "100",
-    movie:
-      "https://vk.com/video_ext.php?oid=755747641&id=456239344&hash=99cb4ddc4efe562b",
-    vost: "https://designparty.sx/e/c7n1bomkkbzs",
+    movie: "https://video.sibnet.ru/shell.php?videoid=5366093",
+    vost: "https://video.sibnet.ru/shell.php?videoid=5366094",
   });
 });
 app.get("/ebbb6b7c-945c-41ee-a792-de0e43191bd8", (req, res) => {
@@ -132,7 +131,7 @@ app.get("/ebbb6b7c-945c-41ee-a792-de0e43191bd8", (req, res) => {
     running_time: "93",
     rt_score: "94",
     movie: "https://video.sibnet.ru/shell.php?videoid=4960862",
-    vost: "https://vostanimee.fr/?trembed=3&trid=4875&trtype=1",
+    vost: "https://video.sibnet.ru/shell.php?videoid=5366084",
   });
 });
 app.get("/1b67aa9a-2e4a-45af-ac98-64d6ad15b16c", (req, res) => {
@@ -153,7 +152,7 @@ app.get("/1b67aa9a-2e4a-45af-ac98-64d6ad15b16c", (req, res) => {
     running_time: "119",
     rt_score: "78",
     movie: "https://video.sibnet.ru/shell.php?videoid=5055341",
-    vost: "https://vidmoly.to/embed-qyug1jvmoxb2.html",
+    vost: "https://video.sibnet.ru/shell.php?videoid=5366078",
   });
 });
 app.get("/ff24da26-a969-4f0e-ba1e-a122ead6c6e3", (req, res) => {
@@ -174,7 +173,7 @@ app.get("/ff24da26-a969-4f0e-ba1e-a122ead6c6e3", (req, res) => {
     running_time: "111",
     rt_score: "91",
     movie: "https://video.sibnet.ru/shell.php?videoid=5184986",
-    vost: "https://www.youtube.com/watch?v=A2CyR65e_2k&ab_channel=Sofyan",
+    vost: "https://video.sibnet.ru/shell.php?videoid=5366088",
   });
 });
 
@@ -196,7 +195,7 @@ app.get("/0440483e-ca0e-4120-8c50-4c8cd9b965d6", (req, res) => {
     running_time: "134",
     rt_score: "92",
     movie: "https://video.sibnet.ru/shell.php?videoid=4917206",
-    vost: "https://www.youtube.com/watch?v=A2CyR65e_2k&ab_channel=Sofyan",
+    vost: "https://video.sibnet.ru/shell.php?videoid=5318207",
   });
 });
 app.get("/45204234-adfd-45cb-a505-a8e7a676b114", (req, res) => {
@@ -258,7 +257,7 @@ app.get("/90b72513-afd4-4570-84de-a56c312fdf81", (req, res) => {
     release_date: "2002",
     running_time: "75",
     rt_score: "89",
-    movie: "https://sendvid.com/embed/urs0k7oo",
+    movie: "https://video.sibnet.ru/shell.php?videoid=5366076",
     vost: "https://video.sibnet.ru/shell.php?videoid=4729075",
   });
 });
@@ -323,7 +322,7 @@ app.get("/758bf02e-3122-46e0-884e-67cf83df1786", (req, res) => {
     running_time: "100",
     rt_score: "92",
     movie: "https://video.sibnet.ru/shell.php?videoid=4960860",
-    vost: "https://www.youtube.com/watch?v=A2CyR65e_2k&ab_channel=Sofyan",
+    vost: "https://video.sibnet.ru/shell.php?videoid=5343984",
   });
 });
 app.get("/2de9426b-914a-4a06-a3a0-5e6d9d3886f6", (req, res) => {
@@ -344,7 +343,7 @@ app.get("/2de9426b-914a-4a06-a3a0-5e6d9d3886f6", (req, res) => {
     running_time: "94",
     rt_score: "95",
     movie: "https://video.sibnet.ru/shell.php?videoid=5055314",
-    vost: "https://www.youtube.com/watch?v=A2CyR65e_2k&ab_channel=Sofyan",
+    vost: "https://video.sibnet.ru/shell.php?videoid=5340725",
   });
 });
 app.get("/45db04e4-304a-4933-9823-33f389e8d74d", (req, res) => {
@@ -365,7 +364,7 @@ app.get("/45db04e4-304a-4933-9823-33f389e8d74d", (req, res) => {
     running_time: "91",
     rt_score: "83",
     movie: "https://video.sibnet.ru/shell.php?videoid=4960825",
-    vost: "https://www.youtube.com/watch?v=A2CyR65e_2k&ab_channel=Sofyan",
+    vost: "https://video.sibnet.ru/shell.php?videoid=5366060",
   });
 });
 app.get("/67405111-37a5-438f-81cc-4666af60c800", (req, res) => {
@@ -408,7 +407,7 @@ app.get("/578ae244-7750-4d9f-867b-f3cd3d6fecf4", (req, res) => {
     running_time: "137",
     rt_score: "100",
     movie: "https://video.sibnet.ru/shell.php?videoid=3200557",
-    vost: "https://www.youtube.com/watch?v=A2CyR65e_2k&ab_channel=Sofyan",
+    vost: "https://video.sibnet.ru/shell.php?videoid=5366066",
   });
 });
 app.get("/5fdfb320-2a02-49a7-94ff-5ca418cae602", (req, res) => {
@@ -429,7 +428,7 @@ app.get("/5fdfb320-2a02-49a7-94ff-5ca418cae602", (req, res) => {
     running_time: "103",
     rt_score: "92",
     movie: "https://video.sibnet.ru/shell.php?videoid=5055358",
-    vost: "https://www.youtube.com/watch?v=A2CyR65e_2k&ab_channel=Sofyan",
+    vost: "https://video.sibnet.ru/shell.php?videoid=5366095",
   });
 });
 app.get("/d868e6ec-c44a-405b-8fa6-f7f0f8cfb500", (req, res) => {
