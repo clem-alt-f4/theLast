@@ -145,7 +145,7 @@ app.get("/1b67aa9a-2e4a-45af-ac98-64d6ad15b16c", (req, res) => {
     movie_banner:
       "https://image.tmdb.org/t/p/original/jScPd0u0jeo66l8gwDl7W9hDUnM.jpg",
     description:
-      "As the human city development encroaches on the raccoon population's forest and meadow habitat, the raccoons find themselves faced with the very real possibility of extinction. In response, the raccoons engage in a desperate struggle to stop the construction and preserve their home.",
+      " Alors que le développement humain des villes empiète sur l'habitat des forêts et des prairies de la population de ratons laveurs, les ratons laveurs se retrouvent confrontés à une possibilité très réelle d extinction. En réponse, les ratons laveurs s engagent dans une lutte désespérée pour arrêter la construction et préserver leur maison.",
     director: "Isao Takahata",
     producer: "Toshio Suzuki",
     release_date: "1994",
@@ -166,7 +166,7 @@ app.get("/ff24da26-a969-4f0e-ba1e-a122ead6c6e3", (req, res) => {
     movie_banner:
       "https://image.tmdb.org/t/p/original/fRtaDgmj0CirvqFUG1XN48BDY1l.jpg",
     description:
-      "Shizuku lives a simple life, dominated by her love for stories and writing. One day she notices that all the library books she has have been previously checked out by the same person: 'Seiji Amasawa'. Curious as to who he is, Shizuku meets a boy her age whom she finds infuriating, but discovers to her shock that he is her 'Prince of Books'. As she grows closer to him, she realises that he merely read all those books to bring himself closer to her. The boy Seiji aspires to be a violin maker in Italy, and it is his dreams that make Shizuku realise that she has no clear path for her life. Knowing that her strength lies in writing, she tests her talents by writing a story about Baron, a cat statuette belonging to Seiji's grandfather.",
+      "Shizuku mène une vie simple, dominée par son amour pour les histoires et l'écriture. Un jour, elle remarque que tous les livres de bibliothèque qu'elle possède ont été préalablement empruntés par la même personne : « Seiji Amasawa ». Curieuse de savoir qui il est, Shizuku rencontre un garçon de son âge qu'elle trouve exaspérant, mais découvre avec surprise qu'il est son « prince des livres ». Au fur et à mesure qu'elle se rapproche de lui, elle se rend compte qu'il a simplement lu tous ces livres pour se rapprocher d'elle. Le garçon Seiji aspire à devenir luthier en Italie, et ce sont ses rêves qui font comprendre à Shizuku qu'elle n'a pas de chemin clair pour sa vie. Sachant que sa force réside dans l'écriture, elle teste ses talents en écrivant une histoire sur Baron, une statuette de chat appartenant au grand-père de Seiji.",
     director: "Yoshifumi Kondō",
     producer: "Toshio Suzuki",
     release_date: "1995",
@@ -188,7 +188,7 @@ app.get("/0440483e-ca0e-4120-8c50-4c8cd9b965d6", (req, res) => {
     movie_banner:
       "https://image.tmdb.org/t/p/original/6pTqSq0zYIWCsucJys8q5L92kUY.jpg",
     description:
-      "Ashitaka, a prince of the disappearing Ainu tribe, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+      "Ashitaka, un prince de la tribu Ainu en voie de disparition, est maudit par un dieu sanglier diabolisé et doit voyager vers l'ouest pour trouver un remède. En chemin, il rencontre San, une jeune femme humaine qui se bat pour protéger la forêt, et Lady Eboshi, qui tente de la détruire. Ashitaka doit trouver un moyen de rééquilibrer ce conflit.",
     director: "Hayao Miyazaki",
     producer: "Toshio Suzuki",
     release_date: "1997",
@@ -209,7 +209,7 @@ app.get("/45204234-adfd-45cb-a505-a8e7a676b114", (req, res) => {
     movie_banner:
       "https://image.tmdb.org/t/p/original/nDOsicEg4RHDq0t23JKGSb58z6u.jpg",
     description:
-      "The Yamadas are a typical middle class Japanese family in urban Tokyo and this film shows us a variety of episodes of their lives. With tales that range from the humourous to the heartbreaking, we see this family cope with life's little conflicts, problems and joys in their own way.",
+      "Les Yamada sont une famille japonaise typique de la classe moyenne de la ville de Tokyo et ce film nous montre une variété d'épisodes de leur vie. Avec des histoires allant de l'humour au déchirant, nous voyons cette famille faire face à sa manière aux petits conflits, problèmes et joies de la vie.",
     director: "Isao Takahata",
     producer: "Toshio Suzuki",
     release_date: "1999",
@@ -272,7 +272,7 @@ app.get("/cd3d059c-09f4-4ff3-8d63-bc765a5184fa", (req, res) => {
     movie_banner:
       "https://image.tmdb.org/t/p/original/hjlvbMKhQm7N8tYynr8yQ8GBmqe.jpg",
     description:
-      "When Sophie, a shy young woman, is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking home.",
+      "Lorsque Sophie, une jeune femme timide, est maudite avec un vieux corps par une méchante sorcière, sa seule chance de rompre le sort réside avec un jeune sorcier indulgent mais peu sûr de lui et ses compagnons sur ses jambes, rentrant chez eux.",
     director: "Hayao Miyazaki",
     producer: "Toshio Suzuki",
     release_date: "2004",
@@ -315,7 +315,7 @@ app.get("/758bf02e-3122-46e0-884e-67cf83df1786", (req, res) => {
     movie_banner:
       "https://image.tmdb.org/t/p/original/6a1qZ1qat26mAIK3Lq8iYdGpyHm.jpg",
     description:
-      "The son of a sailor, 5-year old Sosuke lives a quiet life on an oceanside cliff with his mother Lisa. One fateful day, he finds a beautiful goldfish trapped in a bottle on the beach and upon rescuing her, names her Ponyo. But she is no ordinary goldfish. The daughter of a masterful wizard and a sea goddess, Ponyo uses her father's magic to transform herself into a young girl and quickly falls in love with Sosuke, but the use of such powerful sorcery causes a dangerous imbalance in the world. As the moon steadily draws nearer to the earth and Ponyo's father sends the ocean's mighty waves to find his daughter, the two children embark on an adventure of a lifetime to save the world and fulfill Ponyo's dreams of becoming human.",
+      "Fils d'un marin, Sosuke, 5 ans, mène une vie tranquille sur une falaise au bord de l'océan avec sa mère Lisa. Un jour fatidique, il trouve un magnifique poisson rouge piégé dans une bouteille sur la plage et, après l'avoir sauvé, le nomme Ponyo. Mais ce n’est pas un poisson rouge ordinaire. Fille d'un sorcier magistral et d'une déesse de la mer, Ponyo utilise la magie de son père pour se transformer en jeune fille et tombe rapidement amoureuse de Sosuke, mais l'utilisation d'une sorcellerie aussi puissante provoque un dangereux déséquilibre dans le monde. Alors que la lune se rapproche progressivement de la terre et que le père de Ponyo envoie les puissantes vagues de l'océan pour retrouver sa fille, les deux enfants se lancent dans l'aventure de leur vie pour sauver le monde et réaliser le rêve de Ponyo de devenir humain.",
     director: "Hayao Miyazaki",
     producer: "Toshio Suzuki",
     release_date: "2008",
