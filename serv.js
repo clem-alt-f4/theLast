@@ -336,7 +336,7 @@ app.get("/2de9426b-914a-4a06-a3a0-5e6d9d3886f6", (req, res) => {
     movie_banner:
       "https://image.tmdb.org/t/p/original/7Z7WVzJsSReG8B0CaPk0bvWD7tK.jpg",
     description:
-      "14-year-old Arrietty and the rest of the Clock family live in peaceful anonymity as they make their own home from items 'borrowed' from the house's human inhabitants. However, life changes for the Clocks when a human boy discovers Arrietty.",
+      "Arrietty, 14 ans, et le reste de la famille Clock vivent dans un anonymat paisible alors qu'ils construisent leur propre maison à partir d'objets « empruntés » aux habitants humains de la maison. Cependant, la vie change pour les Clocks lorsqu'un garçon humain découvre Arrietty.",
     director: "Hiromasa Yonebayashi",
     producer: "Toshio Suzuki",
     release_date: "2010",
@@ -378,7 +378,7 @@ app.get("/67405111-37a5-438f-81cc-4666af60c800", (req, res) => {
     movie_banner:
       "https://image.tmdb.org/t/p/original/stM3jlD4nSJhlvR2DE7XnB0eN25.jpg",
     description:
-      "A lifelong love of flight inspires Japanese aviation engineer Jiro Horikoshi, whose storied career includes the creation of the A-6M World War II fighter plane.",
+      "L'ingénieur aéronautique japonais Jiro Horikoshi est passionné depuis toujours par l'aviation, dont la carrière comprend la création de l'avion de combat A-6M de la Seconde Guerre mondiale.",
     director: "Hayao Miyazaki",
     producer: "Toshio Suzuki",
     release_date: "2013",
@@ -485,7 +485,7 @@ app.get("/d6bd6efc-37b2-4c40-b092-367cea8c88fe", (req, res) => {
     movie_banner:
       "https://sportshub.cbsistatic.com/i/2023/08/18/4ca75ce1-c0e4-4ec8-a341-2202008ea3aa/ghibli-boy-and-the-heron.jpg?width=1200",
     description:
-      "The psychological growth of a teenage boy through interactions with his friends and uncle.",
+      "La croissance psychologique d'un adolescent à travers les interactions avec ses amis et son oncle.",
     director: "Hayao Miyazaki",
     producer: "Toshio Suzuki",
     release_date: "2023",
