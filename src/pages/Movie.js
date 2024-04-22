@@ -7,7 +7,7 @@ const Movie = () => {
   const [data, setData] = useState([]);
   console.log(id);
   useEffect(() => {
-    axios.get(`https://vj9x3n-3002.csb.app/${id}`).then((res) => {
+    axios.get(`https://f8sh23-3002.csb.app/${id}`).then((res) => {
       setData(res.data);
     });
   }, [id]);
